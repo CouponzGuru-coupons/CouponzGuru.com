@@ -1,81 +1,50 @@
-# Nuxt Starter
+# 🎯 CouponzGuru UAE - Your Trusted Coupons Destination 🇦🇪
 
-![Netlify + Nuxt Starter Preview](nuxt-starter-preview.jpg)
+Welcome to **CouponzGuru UAE**, your go-to source for verified discount codes and promo offers across top UAE stores. Whether you're shopping for fashion, electronics, food, or travel — we’ve got you covered!
 
 ---
 
-Nuxt Starter is a minimal template designed for creating quick landing pages, built with Nuxt 3 and Tailwind CSS.
+## 🛍️ Top Stores & Deals
 
-**View demo:** [https://demo-nuxt-starter.netlify.app/](https://demo-nuxt-starter.netlify.app/)
+### 🟡 [Noon Coupons](https://www.couponzguru.ae/noon-coupons/)
+Save big with the latest Noon UAE promo codes and discounts. Updated daily.
 
-## Deploy to Netlify
+### 🛒 [Amazon UAE Offers](https://www.couponzguru.ae/amazon-coupons/)
+Get the best Amazon UAE deals and voucher codes for electronics, home essentials & more.
 
-Want to deploy immediately? Click this button
+### 🧘‍♀️ [Lululemon UAE Discounts](https://www.couponzguru.ae/lululemon-coupons/)
+Exclusive fitness wear discounts just for you.
 
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nuxt-starter)
+### 🧹 [Dyson Coupon Codes](https://www.couponzguru.ae/dyson-coupons/)
+Save on Dyson vacuums, hair tools, and air purifiers.
 
-Clicking this button will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
+---
 
-## Features
+## 💡 Why CouponzGuru?
 
-- 🚀 Nuxt 3 with Vue 3
-- 🎨 Tailwind CSS for styling
-- 🖼️ Nuxt Image for optimized image handling
-- 🎯 Nuxt Icon for easy icon integration
-- 📱 Fully responsive design
-- ⚡ Fast and optimized performance
+- ✅ 100% Verified Coupons
+- 🚚 Updated Daily
+- 🔒 Safe & Spam-Free
+- 📦 Covers 100+ UAE Stores
 
-A customizable Nuxt starter using:
+---
 
-- [Nuxt](https://nuxt.com/) v3.x
-- [Tailwind CSS](https://tailwindcss.com/) v4.x
-- [Nuxt Icon](https://nuxt.com/modules/icon)
-- [Nuxt Image](https://nuxt.com/modules/image)
+## 🔗 More Links
 
-| Prerequisites             |
-| :------------------------ |
-| [Node.js](https://nodejs.org/) v20.9+. |
-| (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |
+- [Terms of Use](https://www.couponzguru.ae/terms/)
+- [Privacy Policy](https://www.couponzguru.ae/privacy/)
+- [Contact Us](https://www.couponzguru.ae/contact/)
 
+---
 
-## Build Setup
+## 🌐 Our Network
 
-```bash
-# install dependencies
-$ npm install
+We also operate savings platforms in multiple regions:
+- 🇮🇳 [CouponzGuru India](https://www.couponzguru.com/)
+- 🇸🇬 [CouponzGuru Singapore](https://www.couponzguru.sg/)
+- 🇲🇾 [CouponzGuru Malaysia](https://www.couponzguru.my/)
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+---
 
-# build for production and launch server
-$ npm run build
+> 💬 Have a coupon to share? Reach out and help others save!
 
-# generate static project
-$ npm run generate
-
-# preview production build locally
-$ npm run preview
-```
-
-## Project Structure
-
-```
-├── data/            # JSON file for content
-├── components/      # Vue components
-├── layouts/         # Layout components
-├── pages/           # Application pages
-├── public/          # Static files
-└── assets/          # Assets that need processing
-```
-
-## Next Steps
-
-Here are a few suggestions on what to do next:
-
-- Check [Nuxt on Netlify documentation](https://docs.netlify.com/frameworks/nuxt/).
-- Check [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-- Explore [Tailwind CSS documentation](https://tailwindcss.com/docs) for styling options
-
-## Support
-
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
